@@ -10,5 +10,6 @@ namespace BinaryTreeUniversity
     {
         public string Name;
         public float Salary;
+        public float Tax;
     }
 }

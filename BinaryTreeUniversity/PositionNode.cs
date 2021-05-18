@@ -10,7 +10,7 @@ namespace BinaryTreeUniversity
     {
        public Position Position;
        public PositionNode Left;
-       public PositionNode Right;
+       public PositionNode Right;       
 
     }
 }
